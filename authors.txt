@@ -1,0 +1,6 @@
+"Skrydis virs gegutes lizdo", 1971, "Lyrika"
+"Avineliu tylejimas", 1988, "Grozine"
+"Brisiaus galas", 1991, "Komedija"
+"Kliudziau", 1863, "Trileris"
+"Lietuva brangi" , 2001, "Detektyvas"
+"Kas pasake miau", 2010, "Muzika"
